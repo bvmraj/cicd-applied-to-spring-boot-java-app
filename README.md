@@ -16,9 +16,6 @@ Read the article and this issue.
 
 I'll come back soon.
 
-## I've added Javadoc plugin in pom.xml
-
-https://fanjups.github.io/cicd-applied-to-spring-boot-java-app/project-reports.html
 
 ## I've added packaging jar 
 
